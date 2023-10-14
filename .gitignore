@@ -22,3 +22,11 @@ node_modules
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#SSH Keys 
+E-CommerceKey
+E-CommerceKey.pub
+E-CommercePlatform
+E-CommercePlatform.pub
+commerce
+commerce.pub
